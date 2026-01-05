@@ -58,7 +58,7 @@ ingress:
   enabled: true
   className: ""
   hosts:
-    - host: echo.local
+    - host: echo-gitops.local
       paths:
         - path: /
           pathType: Prefix
